@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449796877 source:g:\dicky11\terpisah\fungsi.c
+	"header.h"
+
+1449795061 g:\dicky11\terpisah\header.h
+
+1449796674 source:g:\dicky11\terpisah\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
